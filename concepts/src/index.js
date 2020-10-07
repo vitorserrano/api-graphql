@@ -5,6 +5,7 @@ const { ApolloServer, gql } = require("apollo-server");
 
 // Query -> Obter informações (GET)
 // Mutation -> Manipular dados (POST/PUT/PATCH/DELETE)
+// Subscription -> WebSockets
 // Scalar Types -> String, Int, Boolean, Float e ID
 
 const typeDefs = gql`
