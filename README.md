@@ -10,16 +10,16 @@ API com <a href="https://graphql.org/">GraphQL</a> + <a href="https://nodejs.org
 - [O que é GraphQL](#-o-que-é-graphql)
 - [Porque utilizar](#-porque-utilizar-graphql)
 - [Construindo sua primeira API GraphQL](#-construindo-sua-primeira-api-graphql)
+  
+  - [Entendendo o GraphQL](#-entendendo-o-graphql)
 
-  - [API](#-api)
+  - [Pacotes e dependências](#-pacotes-e-dependencias)
 
-    - [Entendendo o GraphQL](#-entendendo-o-graphql)
+  - [Estrutura de pastas](#-estrutura-de-pastas)
 
-    - [Pacotes e dependências](#-pacotes-e-dependencias)
-
-    - [Estrutura de pastas](#-estrutura-de-pastas)
-
-  - [Banco de dados](#-banco-de-dados) -[Docker](#-docker)
+  - [Banco de dados](#-banco-de-dados) 
+    
+    - [Docker](#-docker)
 
 ## O que é GraphQL?
 
